@@ -1,1 +1,17 @@
-/*  your css code here. If applicable */
+/* Style for yellow paragraph */
+#yellow {
+    background-color: yellow;
+    border: 1px solid green;
+}
+
+/* Style for red paragraph */
+#red {
+    background-color: red;
+    border: 1px solid black;
+}
+
+/* Style for green paragraph */
+#green {
+    background-color: green;
+    border: 1px solid yellow;
+}
